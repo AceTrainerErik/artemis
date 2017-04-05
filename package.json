@@ -1,0 +1,22 @@
+{
+  "name": "artemis",
+  "version": "1.0.0",
+  "description": "Auto-Responding Task Executor Made In Slack",
+  "main": "bin\artemis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceTrainerErik/artemis.git"
+  },
+  "author": "Erik Birch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AceTrainerErik/artemis/issues"
+  },
+  "homepage": "https://github.com/AceTrainerErik/artemis#readme",
+  "dependencies": {
+    "slackbots": "^1.0.2"
+  }
+}
